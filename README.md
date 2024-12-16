@@ -1,7 +1,7 @@
 # COMP2035 Coursework
 ## Group Members
-- Ler Yeung Jie
-- Ooi Si Heng
+- Ler Yeung Jie 20416246
+- Ooi Si Heng 20514772
 - Raymond Salim 20595118
 
 ## Running
